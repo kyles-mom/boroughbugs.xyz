@@ -1,0 +1,49 @@
+body {
+  cursor: auto;
+  font-family: 'Transport New', sans-serif;
+  margin: 0;
+  background-color: #7279C2;
+  background-image: url('img/sky saturated.png');
+  text-align: center;
+  margin-top: 10px
+}
+
+@font-face {
+    font-family: 'Transport New';
+    src: url('fonts/transportnew-heavy-webfont.woff2') format('woff2'),
+         url('fonts/transportnew-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Transport New';
+    src: url('fonts/transportnew-light-webfont.woff2') format('woff2'),
+         url('fonts/transportnew-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Transport New';
+    src: url('fonts/transportnew-medium-webfont.woff2') format('woff2'),
+         url('fonts/transportnew-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
